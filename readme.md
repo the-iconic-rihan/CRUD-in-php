@@ -54,3 +54,9 @@ This is a simple CRUD (Create, Read, Update, Delete) application built using PHP
 ## License
 
 This project is licensed under the [MIT License](LICENSE).
+
+
+# Output
+![Alt text](image.png)
+![Alt text](image-1.png)
+![Alt text](image-2.png)
